@@ -46,3 +46,9 @@ shcool 萌校
 
 2017.11.7
 北航(buaa)博雅课堂 手机端兼容性修复
+
+2017.11.14
+中央美术学院 (cafa) 网络继电器调试
+支付宝个人码 验证接口 
+支付宝接口文档
+https://docs.open.alipay.com/api_5/alipay.marketing.card.query
