@@ -52,3 +52,8 @@ shcool 萌校
 支付宝个人码 验证接口 
 支付宝接口文档
 https://docs.open.alipay.com/api_5/alipay.marketing.card.query
+
+
+2017.11.16
+首师大cnu bug修复
+课程表,选课查询,
